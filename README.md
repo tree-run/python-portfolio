@@ -6,9 +6,9 @@
 ---
 ## 核心技术栈（Tech Stack）
 
--[]采集引擎层：Python · Requests · DrissionPage · Plasywright 
--[x]反爬对抗层：IP 代理池 · UA 指纹轮换 · Cookie 会话管理 · 请求头伪装 · 验证码识别 · 参数逆向解密 · JS 逆向分析 · 行为风控对抗
--[ ]数据解析层：XPath · 正则表达式 (RegEx) · BeautifulSoup · lxml · JSON 结构化解析 
+- []采集引擎层：Python · Requests · DrissionPage · Plasywright 
+- 反爬对抗层：IP 代理池 · UA 指纹轮换 · Cookie 会话管理 · 请求头伪装 · 验证码识别 · 参数逆向解密 · JS 逆向分析 · 行为风控对抗
+- [x]数据解析层：XPath · 正则表达式 (RegEx) · BeautifulSoup · lxml · JSON 结构化解析 
 - 自动化调度层：定时任务 (Cron) · 增量更新机制 · 失败重试机制 · 任务监控告警 · 多线程并发
 - 数据存储层：CSV / JSON · Excel · Pandas
 - 智能化层：AI 大模型工具链 · 自动化内容生成 · 视频拆解 · 素材批量处理
