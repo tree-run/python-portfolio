@@ -2,6 +2,7 @@
 
 这是一个无需后端的个人作品集模板，展示 Python 爬虫、自动化和数据分析项目。
 
+
 ## 核心技术栈（Tech Stack）
 
 - 1. 采集引擎层：Python · Requests · DrissionPage · Plasywright 
@@ -11,6 +12,7 @@
 - 5. 数据存储层：CSV / JSON · Excel · Pandas
 - 6. 智能化层：AI 大模型工具链 · 自动化内容生成 · 视频拆解 · 素材批量处理
 - 7. AI智能化应用与效率提升能力：熟悉Python结合AI工具进行自动化创新，可利用AI辅助完成内容分析、视频拆解、爆款内容批量生成、素材处理等任务，提升内容生产与业务执行效率。
+
 
 ## 技术能力（Core Competencies）
 
